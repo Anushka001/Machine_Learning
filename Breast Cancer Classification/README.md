@@ -1,4 +1,5 @@
-Breast Cancer Classification
+Breast Cancer Classification:
+
 There are two types of tumors: 
 Benign tumor: these tumors do not metastasize. These are non-cancerous, non-invasive and slow growing tumors which are capsulated.
 Malignant tumor: these tumors metastasize to other parts of the body. These are cancerous, non-capsulated and fast growing tumors.
