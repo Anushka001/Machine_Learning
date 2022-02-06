@@ -9,7 +9,7 @@ If Malignant tumor are not cured, they cause breast cancer.
 
 If the tumor is Benign, there is nothing to worry. But if the tumor is Malignant, the patient needs to be given urgent treatment, like chemotherapy, radiation etc so as to remove the tumor.
 
-So here our problem statement is to identify if the tumor is Benign or Malignant.
+So here our problem statement is to build a Machine Learning model which can predict if the tumor is Benign or Malignant.
 
 The dataset we are using is prepared by Fine Needle aspiration.
 
