@@ -4,7 +4,7 @@ Suppose there is a famous mall, and you are a experienced data scientist. The ma
 
 Work flow:
 
--First of all we will gather the data, so that we can train our ML model
+- First of all we will gather the data, so that we can train our ML model
 - Next we will process this data, as we cannot feed this data directly to our model, we will select some features. This will be done in data preprocessing.
 - Now we will analyse the data, where we will see what are the features of this data, and which ones are important.
 - After that we will choose the optimum number of clusters. We need to tell the ML model the number of clusters, which we will find using a method called "within cluster sum of squares." This WCSS value will tell us the correct no of clusters suitable for the dataset.
