@@ -7,3 +7,6 @@ Work flow:
 - Training the model using Logistic Regression (best for binary classification)
 - Evaluating the trained model using test dataset
 - Feeding new data to predict if the transaction is Legit or Fraud
+
+Dataset: 
+https://www.kaggle.com/mlg-ulb/creditcardfraud
