@@ -9,4 +9,4 @@ Work flow:
 - Now we will analyse the data, where we will see what are the features of this data, and which ones are important.
 - After that we will choose the optimum number of clusters. We need to tell the ML model the number of clusters, which we will find using a method called "within cluster sum of squares." This WCSS value will tell us the correct no of clusters suitable for the dataset.
 - Now we will feed this data to the K Means clustering algorithm, which will group the data depending on their similarities.
--Finally we will visualize these clusters, by putting the predictions into plots.  
+- Finally we will visualize these clusters, by putting the predictions into plots.  
